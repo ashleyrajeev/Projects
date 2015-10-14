@@ -1,0 +1,5 @@
+This is a sample File for 
+evaluating th FEC coding. 
+The performance of FEC can 
+be increased by using the 
+process Interleaving.

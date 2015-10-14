@@ -1,0 +1,6 @@
+Improve performance provided this added redundancy does not adversely affect the network packet loss
+characteristics.On the other hand,from the network's perspective,the widespread use of FEC schemes
+by end nodes will increase the raw packet loss rate in a network because of the additional loads resulting
+from transmission of redundant packets.Therefore,in order to optimize the end-to-end performance,the
+appropriate tradeoff,in terms of the amount of redundancy added,and its effect on network packet-loss
+processes,needs to be investigated under specific and realistic modeling assumptions.
